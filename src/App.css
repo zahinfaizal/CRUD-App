@@ -62,6 +62,7 @@ h1 {
 
 .task span {
   flex: 1;
+  color: black;
 }
 
 .task button {
